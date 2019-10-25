@@ -12,3 +12,4 @@ Aquí trataremos los siguientes apartados:
 [wikipedia](https://es.wikipedia.org/wiki/Kali_Linux)
 [Computer hoy](https://computerhoy.com/paso-a-paso/software/que-es-kali-linux-que-puedes-hacer-41671)
 [Isciberseguridad](https://isciberseguridad.es/kali-linux-descargar-instalar/)
+[Linuxadictos](https://www.linuxadictos.com/las-5-mejores-herramientas-encontraremos-kali-linux.html)
